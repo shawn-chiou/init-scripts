@@ -1,2 +1,2 @@
 # init-scripts
-Scripts for environment initialize
+Scripts for linux (debian/ubuntu/Xubuntu/Kubuntu) environment initialize
